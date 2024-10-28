@@ -13,7 +13,7 @@ Step 4: AES operates on a 4 × 4 column-major order array of bytes, termed the s
 
 ## PROGRAM :
 ```
-Developed by:Tom franvcies
+Developed by:Tom francies
 Register no: 21222110060
 ```
 ```c
