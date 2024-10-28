@@ -13,8 +13,8 @@ Step 4: AES operates on a 4 × 4 column-major order array of bytes, termed the s
 
 ## PROGRAM :
 ```
-Developed by:Harini V
-Register no: 212222230044
+Developed by:Tom franvcies
+Register no: 21222110060
 ```
 ```c
 #include <stdio.h>
@@ -53,7 +53,8 @@ int main() {
 }
 ```
 ## OUTPUT:
-![{7E194EAD-5155-4BBD-BCDE-B9909C7EA89C}](https://github.com/user-attachments/assets/8730f770-717c-43e0-a797-2af0f22451b1)
+![Screenshot 2024-10-28 144623](https://github.com/user-attachments/assets/c768365e-4551-4d32-b5b5-1ddcf173e848)
+
 
 ## RESULT:
 Hence,to use Advanced Encryption Standard (AES) Algorithm for a practical application like URL Encryption is done successfully.
